@@ -15,7 +15,6 @@ brew doctor
 brew install vim --override-system-vi
 
 brew install reattach-to-user-namespace # required for macOS clipboard integration with Vim
-brew install tmux
 
 #generic colorizer
 brew install grc
