@@ -2,7 +2,7 @@ ln -s ~/Dropbox/dev ~/ # symlink development directory to home folder
 ln -s ~/Dropbox/dev/go ~/go # symlink development directory to home folder
 ln -s ~/Dropbox/dotfiles/vim ~/.vim                 # symlink vim directory
 ln -s ~/Dropbox/dotfiles/.vimrc ~/.vimrc            # symlink vim configuration
-ln -s ~/Dropbox/dotfiles/.tmux ~/.tmux              # symlink tmux directory
+ln -s ~/Dropbox/dotfiles/tmux ~/.tmux              # symlink tmux directory
 ln -s ~/Dropbox/dotfiles/.tmuxinator ~/.tmuxinator              # symlink tmux directory
 ln -s ~/Dropbox/dotfiles/.tmux.conf ~/.tmux.conf    # symlink tmux configuration
 ln -s ~/Dropbox/dotfiles/.grc ~/.grc                # symlink grc configuration
